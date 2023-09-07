@@ -1,4 +1,4 @@
-package Services.Auth;
+package Entity;
 
 public class Customer {
 }

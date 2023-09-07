@@ -1,4 +1,4 @@
-package Entity.Auth;
+package Services.Auth;
 
 public class SignUp {
 }
